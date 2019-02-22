@@ -11,6 +11,7 @@ I am BAD
 */
 
 public class Contact {
+    // YOU
 
 @SerializedName("name")
 @Expose
