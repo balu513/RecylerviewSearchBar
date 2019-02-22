@@ -3,6 +3,10 @@ package com.example.recylerviewsearchbar;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
+/*
+Hello BAlu
+/*
+
 public class Contact {
 
 @SerializedName("name")
