@@ -6,6 +6,7 @@ import com.google.gson.annotations.SerializedName;
 /*
 Hello BAlu
 I am BAD
+123
 */
 
 public class Contact {
