@@ -5,7 +5,7 @@ import com.google.gson.annotations.SerializedName;
 
 /*
 Hello BAlu
-/*
+*/
 
 public class Contact {
 
