@@ -6,7 +6,7 @@ import com.google.gson.annotations.SerializedName;
 /*
 Hello BAlu
 I am BAD
-900
+900..
 */
 
 public class Contact {
@@ -26,6 +26,7 @@ return name;
 }
 
 public void setName(String name) {
+    //Hello
 this.name = name;
 }
 
