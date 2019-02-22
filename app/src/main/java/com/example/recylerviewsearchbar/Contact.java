@@ -50,5 +50,10 @@ this.phone = phone;
 }
 
 }
+<<<<<<< HEAD
 //From CLient@
 // From SERVER @
+=======
+//From CLient. #
+// From SERVER#
+>>>>>>> 9d94614c64b249b0698894a60edbde3ebf02665d
