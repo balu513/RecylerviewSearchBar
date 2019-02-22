@@ -50,3 +50,5 @@ this.phone = phone;
 }
 
 }
+
+// From SERVER
