@@ -7,6 +7,7 @@ import com.google.gson.annotations.SerializedName;
 Hello BAlu
 I am BAD
 900..
+8888112232
 */
 
 public class Contact {
